@@ -19,12 +19,11 @@
     ],
     "require": {
         "php": ">=5.4",
-        "predis/predis": "^1.0"
+        "predis/predis": "^1|^2"
     },
     "require-dev": {
-        "phpspec/phpspec": "^4.3.0",
-        "m6web/redis-mock": "^2.2",
-        "leanphp/phpspec-code-coverage": "^4.0"
+        "phpspec/phpspec": "^7.5.0",
+        "m6web/redis-mock": "^2.2"
     },
     "autoload": {
         "psr-4": {"SidekiqJob\\": "src/"}
