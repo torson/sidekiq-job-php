@@ -1,5 +1,5 @@
 {
-    "name": "spinx/sidekiq-job-php",
+    "name": "torson/sidekiq-job-php",
     "description": "Push and schedule jobs to Sidekiq from PHP",
     "type": "library",
     "license": "MIT",
